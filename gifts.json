@@ -1,1 +1,256 @@
-{"site": "https://jar1950.github.io/pebbles", "client_id": "", "gifts": {}}
+{
+ "site": "https://jar1950.github.io/pebbles",
+ "client_id": "e874df018cff462caaf8e2ab629ea6d6",
+ "gifts": {
+  "deep-work-many-worlds": {
+   "name": "Deep Work, Many Worlds",
+   "intent": "For deep focus when I'm juggling many tasks at once and lost in my own world while building the startup. The music should sit under the work without pulling me out of it.",
+   "for": "The moments I want to focus and work on the start up ",
+   "cover": "covers/deep-work-many-worlds.svg",
+   "playlist": "2XkteAnmhN3c0yrmJWmzuZ",
+   "pool": [
+    {
+     "u": "spotify:track:7xqANDRz8JFxkwfY65WISy",
+     "l": "The Weeknd - Loft Music"
+    },
+    {
+     "u": "spotify:track:3QWENKFYGEgp3itgTnrgq9",
+     "l": "The Weeknd - Initiation"
+    },
+    {
+     "u": "spotify:track:0UGdO687azruy9tFlCxO6F",
+     "l": "The Weeknd - Montreal"
+    },
+    {
+     "u": "spotify:track:31G9RaSaDOI2NWcpnIp734",
+     "l": "A$AP Rocky - Goldie"
+    },
+    {
+     "u": "spotify:track:787rCZF9i4L1cXGMkdyIk4",
+     "l": "A$AP Rocky - LVL"
+    },
+    {
+     "u": "spotify:track:0O3TAouZE4vL9dM5SyxgvH",
+     "l": "A$AP Rocky - Fashion Killa"
+    },
+    {
+     "u": "spotify:track:5MhMXTuVODDF234VDvSxQx",
+     "l": "Tycho - Awake"
+    },
+    {
+     "u": "spotify:track:4Cy6hgJGkLsOD1S8x4ysFF",
+     "l": "Tycho - Dive"
+    },
+    {
+     "u": "spotify:track:4sUTagdmyuyAxd7RvbygpQ",
+     "l": "Nujabes - aruarian dance"
+    },
+    {
+     "u": "spotify:track:7sqii6BhIDpJChYpU3WjwS",
+     "l": "Bonobo - Kiara"
+    },
+    {
+     "u": "spotify:track:2lJ4d8MCT6ZlDRHKJ1br14",
+     "l": "Bonobo - Cirrus"
+    },
+    {
+     "u": "spotify:track:7CH99b2i1TXS5P8UUyWtnM",
+     "l": "Thundercat - Them Changes"
+    },
+    {
+     "u": "spotify:track:6N9U1wkWniSXD4TKD4ln0h",
+     "l": "Brent Faiyaz, Drake, The Neptunes - WASTING TIME (FEAT. DRAKE & THE NEPTUNES)"
+    },
+    {
+     "u": "spotify:track:5EvSpCCDpZOJvFwr4ZWSk0",
+     "l": "Khruangbin - Maria También"
+    },
+    {
+     "u": "spotify:track:5kadOt1O3LrIV46dns9v7u",
+     "l": "Burial - Archangel"
+    },
+    {
+     "u": "spotify:track:3iwH1DfB0Yq2uKhCv7SMxp",
+     "l": "Caribou - Odessa"
+    },
+    {
+     "u": "spotify:track:0BVdNCqYq6offkjRGKVRDB",
+     "l": "Mount Kimbie - Made To Stray"
+    },
+    {
+     "u": "spotify:track:2ZIaH69kaz55RM4Pjx6KXl",
+     "l": "Four Tet - Two Thousand and Seventeen"
+    },
+    {
+     "u": "spotify:track:49Su9fsYwmnnuJSyxj48kL",
+     "l": "Little Dragon - Twice"
+    },
+    {
+     "u": "spotify:track:3Fc7k96EGOGiJBMZUxbpq7",
+     "l": "KAYTRANADA - LITE SPOTS"
+    },
+    {
+     "u": "spotify:track:3EaJDYHA0KnX88JvDhL9oa",
+     "l": "Steve Lacy - Dark Red"
+    },
+    {
+     "u": "spotify:track:7IVukH71OXfAu3KudrrizN",
+     "l": "Daniel Caesar - Japanese Denim"
+    },
+    {
+     "u": "spotify:track:1KOqY0QTSadQFRgbNw1sLh",
+     "l": "Flying Lotus, Kendrick Lamar - Never Catch Me"
+    },
+    {
+     "u": "spotify:track:5hM5arv9KDbCHS0k9uqwjr",
+     "l": "Tame Impala - Borderline"
+    },
+    {
+     "u": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
+     "l": "Frank Ocean - Pink + White"
+    },
+    {
+     "u": "spotify:track:6gU9OKjOE7ghfEd55oRO57",
+     "l": "SZA - The Weekend"
+    },
+    {
+     "u": "spotify:track:7ub5dcQHBLCQHW3OZRAf9q",
+     "l": "Bonobo, Joy Crookes - Always on Your Side"
+    },
+    {
+     "u": "spotify:track:622fSIVOm6SPcLPNOoYeJn",
+     "l": "Bonobo, Jamila Woods - Tides"
+    },
+    {
+     "u": "spotify:track:7Cg3F9ZsZ2TYUnlza49NYh",
+     "l": "Bonobo - Kong"
+    },
+    {
+     "u": "spotify:track:1mRTSIs40qa2L7omBzQd1u",
+     "l": "Bonobo, Bajka - Days To Come"
+    },
+    {
+     "u": "spotify:track:5DAjrJqXqYtgr67pVhmUeR",
+     "l": "Bonobo - Kerala"
+    },
+    {
+     "u": "spotify:track:6vcd0sKmiioXQKbcZPr7gq",
+     "l": "Bonobo, Andreya Triana - Stay The Same"
+    },
+    {
+     "u": "spotify:track:1gI1nC5E3ObyMtejdc8crP",
+     "l": "Bonobo, Bajka - Nightlite"
+    },
+    {
+     "u": "spotify:track:5hmf3hRQMaDIWuZT1zX3ue",
+     "l": "Bonobo, Andreya Triana - The Keeper"
+    },
+    {
+     "u": "spotify:track:2ZaL63zLMDr6H18El2EIt9",
+     "l": "Bonobo - Rosewood"
+    },
+    {
+     "u": "spotify:track:2MIavWMdvbYuRoA2Cw6VkN",
+     "l": "Khruangbin - August 10"
+    },
+    {
+     "u": "spotify:track:3dvXRk7TZ929m21p49RR5P",
+     "l": "Khruangbin, Leon Bridges - Mariella"
+    },
+    {
+     "u": "spotify:track:24ntSW3QVJzR79lHAAOTaY",
+     "l": "Khruangbin, Leon Bridges - Texas Sun"
+    },
+    {
+     "u": "spotify:track:7g18n5nxV5ep8ugBR3BmHD",
+     "l": "Khruangbin - White Gloves"
+    },
+    {
+     "u": "spotify:track:0jaFQzTV7zKwuys2YGLpaC",
+     "l": "Khruangbin - People Everywhere (Still Alive)"
+    },
+    {
+     "u": "spotify:track:2DccHqTquzubziHAPZRdct",
+     "l": "Khruangbin, Leon Bridges - B-Side"
+    },
+    {
+     "u": "spotify:track:7pnVHbcqbmP7LA1ey3ydvu",
+     "l": "Khruangbin, Leon Bridges - Midnight"
+    },
+    {
+     "u": "spotify:track:0S3BtG3i5tkQmehJhIhHF3",
+     "l": "Khruangbin - Time (You and I)"
+    },
+    {
+     "u": "spotify:track:4HpFU6eMThgW6Cael5AwYy",
+     "l": "Khruangbin - So We Won't Forget"
+    },
+    {
+     "u": "spotify:track:4EGilW7VYfTULk4RENDfJp",
+     "l": "Khruangbin - White Gloves ii"
+    },
+    {
+     "u": "spotify:track:0sQNqu37YQQSI3K0ueswyA",
+     "l": "Tycho - A Walk"
+    },
+    {
+     "u": "spotify:track:4riBORG5X5kvQThwODPDDh",
+     "l": "Tycho, Saint Sinner, Satin Jackets - Japan - Satin Jackets Remix"
+    },
+    {
+     "u": "spotify:track:5w9XvpOBv2FviDF7lSV5Kb",
+     "l": "Tycho, Paul Banks - Boundary Rider"
+    },
+    {
+     "u": "spotify:track:12e4x5uzKcDa8ZgQbGA0Gr",
+     "l": "Tycho, Saint Sinner - For How Long"
+    },
+    {
+     "u": "spotify:track:60cdK07Fkyj2Ss2Zj3pw9I",
+     "l": "Tycho - Hours"
+    },
+    {
+     "u": "spotify:track:5uTnqjoCiHCZJ3TmQpOhpH",
+     "l": "Tycho - Melanine"
+    },
+    {
+     "u": "spotify:track:5zV3Eypijs4xjO7VPpuFdL",
+     "l": "Tycho - Spectre"
+    },
+    {
+     "u": "spotify:track:10WZEaaJ2MsKMgPJpxgaRO",
+     "l": "Tycho, Sea Lemon - Anotherwave"
+    },
+    {
+     "u": "spotify:track:3edXY8UqTv1SEC6JOrfBPQ",
+     "l": "Tycho, nimino - Small Sanctuary - nimino Remix"
+    },
+    {
+     "u": "spotify:track:2Xi6z4qoIsNzTMUkOVR5yL",
+     "l": "Elder Island, Tycho - Pink Lemon - Tycho Remix"
+    },
+    {
+     "u": "spotify:track:0FIDCNYYjNvPVimz5icugS",
+     "l": "The Weeknd, Playboi Carti - Timeless (feat Playboi Carti)"
+    },
+    {
+     "u": "spotify:track:7CyPwkp0oE8Ro9Dd5CUDjW",
+     "l": "The Weeknd, JENNIE, Lily-Rose Depp - One Of The Girls (with JENNIE, Lily Rose Depp)"
+    },
+    {
+     "u": "spotify:track:22VdIZQfgXJea34mQxlt81",
+     "l": "The Weeknd - Can't Feel My Face"
+    },
+    {
+     "u": "spotify:track:7fBv7CLKzipRk6EC6TWHOB",
+     "l": "The Weeknd - The Hills"
+    },
+    {
+     "u": "spotify:track:7kfOEMJBJwdCYqyJeEnNhr",
+     "l": "Swedish House Mafia, The Weeknd - Moth To A Flame (with The Weeknd)"
+    }
+   ],
+   "updated": "2026-11-18T17:41:12"
+  }
+ }
+}
