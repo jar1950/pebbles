@@ -154,8 +154,16 @@
     try { cfg = await config(); } catch (e) { return say("Gift site isn't ready yet.", "Error"); }
     const q = new URLSearchParams(location.search);
     const back = q.get("back") || "";
-    $("forget").onclick = () => { store.del("token"); store.del("lists"); say("Disconnected. Taps now open the shared playlists.", "Off"); $("forget").classList.add("hidden"); };
-    if (store.get("token", null)) { say("This phone is connected. Tap a Pebble to play a fresh mix.", "Connected"); $("forget").classList.remove("hidden"); }
+    const connected = (yes) => {
+      $("go").classList.toggle("hidden", yes); $("forget").classList.toggle("hidden", !yes);
+      $("title").textContent = yes ? "Connected ✓" : "Connect your Spotify";
+      $("step").textContent = yes ? "Done" : "Step 1 of 1";
+      say(yes ? "This phone is connected. Now tap a Pebble (or open its link): a fresh mix plays in your Spotify." :
+                "Do this once. Then every Pebble you tap makes a fresh mix in your own Spotify (Premium) and starts playing.",
+          yes ? "Connected" : "Tester");
+    };
+    $("forget").onclick = () => { store.del("token"); store.del("lists"); connected(false); };
+    connected(!!store.get("token", null));
     $("go").onclick = () => login(cfg, back);
 
     if (q.get("error")) return say("Spotify said: " + q.get("error") + ". Try again.", "Error");
@@ -169,8 +177,7 @@
         const to = store.get("back", ""); store.del("back");
         history.replaceState(null, "", location.pathname);
         if (to) { location.replace(new URL("p/" + to + "/", ROOT).href); return; }
-        say("Connected. Tap a Pebble and its fresh mix plays in your Spotify.", "Connected");
-        $("forget").classList.remove("hidden");
+        connected(true);
       } catch (e) { say("Couldn't connect: " + e.message, "Error"); }
     }
   }
